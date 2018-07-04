@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+ul{
+    margin-left: 2%;
+}
+
+img{
+    width: 4%;
+    height: 4%;
+}
+
+.p-cmd{
+    background-color: #333;
+    color: azure;
+    padding: 14px 16px;
+}
